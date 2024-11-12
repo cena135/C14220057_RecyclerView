@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">C14220057_RecyclerView</string>
+    <string name="app_name">LatProjectRecyclerView</string>
 
     <string-array name="namaWayang">
         <item>Bima</item>
